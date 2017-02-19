@@ -1,4 +1,13 @@
-.App {
+div {
+  /*height: 900px;
+  width: auto;
   font-size: 40px;
   font: 'Open Sans', serif;
+  background-color: green;*/
+}
+
+.threecontainer {
+  height:300px;
+  width: 300px;
+  margin-top: 300px;
 }
